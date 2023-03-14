@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<daunbeRep>
+	<search>//input[@name='searchbar']</search>
+	<searchBtn>//button[@id='button-search']</searchBtn>
+	<searchMsg>//div[@class='preview-title']</searchMsg>
+	<add>//button[contains(text(),'Add')]</add>
+	<checkout>//button[contains(text(),'Checkout')]</checkout>
+	<name>//input[@id='s-name']</name>
+	<sname>//input[@id='s-surname']</sname>
+	<address>//input[@id='s-address']</address>
+	<zipcode>//input[@id='s-zipcode']</zipcode>
+	<city>//input[@id='s-city']</city>
+	<company>//input[@id='s-company']</company>
+	<checkBox>//label[contains(text(),'as soon')]</checkBox>
+	<buyBtn>//button[contains(text(),'Buy')]</buyBtn>
+	<successMsg>//div[@class='recap']//p</successMsg>
+</daunbeRep>
+	
+	
